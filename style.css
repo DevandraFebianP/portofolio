@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(Malam\ Sunyi.jpg);
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 139);
+    z-index: 1000;
+}
+
+nav ul {
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 15px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    font-size: 250%;
+    margin-top: 7%;
+    color: azure;
+}
+
+h3 {
+    font-size: 180%;
+    color: azure;
+    margin-top: 6%;
+}
+
+
+h2 {
+    font-size: 200%;
+    color: azure;
+
+}
+
+h4 {
+    color: azure;
+    font-size: 200%;
+    text-align: left;
+    margin-top: 5%;
+}
+
+p {
+    color: azure;
+    font-size: 150%;
+    text-align: left;
+}
+
+.pertama {
+    top: 100;
+    width: 100%;
+    background-color: rgb(0,35,102);
+    z-index: 1000;
+    margin: 0 120px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.kedua {
+    top: 100;
+    width: 100%;
+    background-color: rgb(0,35,102);
+    z-index: 1000;
+    margin: 0 120px;
+}
+
+.ketiga {
+    top: 100;
+    width: 100%;
+    background-color: rgb(0,35,102);
+    z-index: 1000;
+    margin: 0 120px;
+}
